@@ -1,6 +1,6 @@
 {
   "frozen": {
-    "release-year": 2013,
+    "release-year": 2014,
     "featured-song": "Let it go",
     "rotten-tomatoes": 90
   },
@@ -18,5 +18,10 @@
     "release-year": 1999,
     "featured-song": "Youll be in my heart",
     "rotten-tomatoes": 89
+  },
+  "interstl": {
+    "release-year": 2014,
+    "featured-song": "Let it go",
+    "rotten-tomatoes": 90
   }
 }
